@@ -1,6 +1,6 @@
 # Talent Market Intelligence Engine
 
-> A strategic platform for capital-efficient team scaling and market-informed talent acquisition...
+> A strategic platform for capital-efficient team scaling and market-informed talent acquisition..
 ## The Problem
 
 Executives and technical leaders driving digital transformation (Cloud, AI, FinOps, DevSecOps) often make critical hiring decisions based on intuition and outdated market data. This leads to:
