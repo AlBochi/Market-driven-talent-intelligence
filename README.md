@@ -1,6 +1,6 @@
 # Talent Market Intelligence Engine
 
-> A strategic platform for capital-efficient team scaling and market-informed talent acquisition......
+> A strategic platform for capital-efficient team scaling and market-informed talent acquisition.....
 
 ## The Problem
 
